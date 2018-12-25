@@ -1,6 +1,6 @@
-# hack-scripts
+# Hack-Script
 
-> scripts to setup pentesting system and use during pentest
+> Scripts to setup pentesting system and use during pentest which will make the testing more efficient.
 
 This repo hosts the pentest system setup script and various other scripts to help on pentesting and security related tasks.
 
@@ -14,4 +14,4 @@ The first thing you would want to do after downloading/cloning this repository i
 
 ## Author
 
-- [techgaun](https://github.com/techgaun)
+- [Kai Iyer](https://github.com/kaiiyer)
