@@ -15,3 +15,5 @@ The first thing you would want to do after downloading/cloning this repository i
 ## Author
 
 - [Kai Iyer](https://github.com/kaiiyer)
+
+[German version](README_DE.md)
