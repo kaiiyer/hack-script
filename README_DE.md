@@ -16,4 +16,4 @@ Der erste Schritt nachdem das Repository heruntergeladen/geklont wurde sollte da
 
 - [Kai Iyer](https://github.com/kaiiyer)
 
-[English version](setup-sys.sh)
+[English version](README.md)
