@@ -16,4 +16,4 @@ The first thing you would want to do after downloading/cloning this repository i
 
 - [Kai Iyer](https://github.com/kaiiyer)
 
-[German version](README_DE.md)
+For German version please click [here](README_DE.md)
