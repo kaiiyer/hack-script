@@ -1,5 +1,7 @@
 # Hack-Script
 
+[![Codacy Badge](https://api.codacy.com/project/badge/Grade/773c0dfd90d04a5e930c781aa4d1e660)](https://app.codacy.com/manual/kaiiyer47/hack-script?utm_source=github.com&utm_medium=referral&utm_content=kaiiyer/hack-script&utm_campaign=Badge_Grade_Dashboard)
+
 > Scripts to setup pentesting system and use during pentest which will make the testing more efficient.
 
 This repo hosts the pentest system setup script and various other scripts to help on pentesting and security related tasks.
