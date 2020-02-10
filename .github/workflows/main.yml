@@ -1,2 +1,9 @@
-  name: Upgrade to Python 3
+  name: Git Actions
+  on: [push]
+  jobs:
+    New_Job:
+      runs-on: [ubuntu-latest]
+      steps:
+              - name: Initial Job
+                continue-on-error: true
   uses: cclauss/Upgrade-to-Python3@0.1.0
