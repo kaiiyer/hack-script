@@ -15,8 +15,4 @@ This repo hosts the pentest system setup script and various other scripts to hel
 
 The first thing you would want to do after downloading/cloning this repository is to run [setup-sys.sh](setup-sys.sh) and [setup-pendata.sh](setup-pendata.sh) scripts respectively. These two scripts will install various packages, tools and resources that will be useful during your pentesting journey.
 
-## Author
-
-- [Kai Iyer](https://github.com/kaiiyer)
-
 For German version please click [here](README_DE.md)
