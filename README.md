@@ -1,6 +1,7 @@
 # Hack-Script
 
 [![Codacy Badge](https://api.codacy.com/project/badge/Grade/773c0dfd90d04a5e930c781aa4d1e660)](https://app.codacy.com/manual/kaiiyer47/hack-script?utm_source=github.com&utm_medium=referral&utm_content=kaiiyer/hack-script&utm_campaign=Badge_Grade_Dashboard)
+![Git Actions](https://github.com/kaiiyer/hack-script/workflows/Git%20Actions/badge.svg)
 
 > Scripts to setup pentesting system and use during pentest which will make the testing more efficient.
 
